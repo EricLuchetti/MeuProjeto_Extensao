@@ -1,0 +1,20 @@
+{
+  "name": "meuprojeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricLuchetti/MeuProjeto_Extensao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricLuchetti/MeuProjeto_Extensao/issues"
+  },
+  "homepage": "https://github.com/EricLuchetti/MeuProjeto_Extensao#readme"
+}
